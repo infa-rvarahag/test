@@ -1,0 +1,43 @@
+[
+     {
+          "Class": "8",
+          "Students": [{
+               "F_Name": "Kuntal",
+               "L_Name": "Banerjee",
+               "Marks": {
+                    "Chemistry": "65",
+                    "Mathematics": "88",
+                    "Percentage": 74.333336,
+                    "Physics": "70"
+               },
+               "Roll": "10"
+          }]
+     },
+     {
+          "Class": "10",
+          "Students": [
+               {
+                    "F_Name": "Raja",
+                    "L_Name": "Sekhar",
+                    "Marks": {
+                         "Chemistry": "70",
+                         "Mathematics": "90",
+                         "Percentage": 80,
+                         "Physics": "80"
+                    },
+                    "Roll": "12"
+               },
+               {
+                    "F_Name": "Aditya",
+                    "L_Name": "Sekhar",
+                    "Marks": {
+                         "Chemistry": "70",
+                         "Mathematics": "90",
+                         "Percentage": 80,
+                         "Physics": "80"
+                    },
+                    "Roll": "12"
+               }
+          ]
+     }
+]
